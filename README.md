@@ -47,7 +47,7 @@ python -m examples.benchmark_woa
    ```
 
 ## Benchmark Results
-![Genetic Algorithm with 30 dimension Ackley objective function](Figure_1.png)
+![Figure_1](https://github.com/user-attachments/assets/0fef1711-9d60-4cd6-a520-28f2c7fb140f)
 _Execution time comparison for Genetic Algorithm on 30-dimensional Ackley function_
 | Population Size | CPU Time (s) | GPU Time (s) |
 |  :-----:  |  :-----:  |  :-----:  |
@@ -57,8 +57,7 @@ _Execution time comparison for Genetic Algorithm on 30-dimensional Ackley functi
 | 1000  | 4.02  | 0.09  |
 | 2000  | 11.65  | 0.17  |
 
-
-![Genetic Algoritm Convergence Curve with 1000 population size, 30 dimension Ackley objective dunction](Figure_2.png)
+![Figure_2](https://github.com/user-attachments/assets/694339b9-b1ac-4b7c-8f2a-2e231763c992)
 _Convergence curve for 1000 population size on 30-dimensional Ackley function._
 ## Contributing
 
